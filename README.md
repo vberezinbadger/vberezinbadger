@@ -3,11 +3,11 @@
 [![GitHub Link](https://img.shields.io/badge/GitHub%20Link%20for%20Social%20Networks-vberezinbadger-9cf)](https://github.com/vberezinbadger)
 [![VKontakte](https://img.shields.io/badge/star__butterfly__original-VKontakte-blue)](https://vk.com/star_butterfly_original)
 
-Hi there 👋
+### 👋 Hi there
 
 I am Vladimir Berezin. I develop all sorts of complex things: from simple applications and frameworks to grandiose projects. I have many interests and secrets.
 
-## 📝 Interesting projects
+### 📝 Interesting projects
 
 <br>
 
@@ -20,7 +20,7 @@ I am Vladimir Berezin. I develop all sorts of complex things: from simple applic
 
 <br>
 
-## 📌 Pinned comment
+### 📌 Pinned comment
 
 <br>
 If you want to help me, then don't. I am self-taught and work alone, as well as in the circle of a large GuiseWare Team family.
