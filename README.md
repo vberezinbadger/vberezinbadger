@@ -1,6 +1,6 @@
 [![VBerezin Main Banner](./assets/vberezinbadger.png)](https://vk.com/star_butterfly_original)
 
-[![GitHub Link](https://img.shields.io/badge/GitHub-vberezinbadger-9cf)](https://github.com/vberezinbadger)
+[![GitHub Link](https://img.shields.io/badge/GitHub%20Link%20for%20Social%20Networks-vberezinbadger-9cf)](https://github.com/vberezinbadger)
 [![VKontakte](https://img.shields.io/badge/star__butterfly__original-VKontakte-blue)](https://vk.com/star_butterfly_original)
 
 Hi there 👋
