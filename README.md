@@ -14,8 +14,9 @@ I am Vladimir Berezin. I develop all sorts of complex things: from simple applic
 <!-- BLOG-POST-LIST:START -->
 - [FLEXengine](https://vk.com/kolibracorp.flexui)
 - [BadgerOS](https://vk.com/kolibracorp.badgeros)
-- [Ware Center](https://vk.com/warecenter.official)
-- [GuiseWare Land, Launcher](https://vk.com/guisewareland.official)
+- [Hentai Terminal](https://vk.com/kolibracorp.hterminal)
+- [Genesys Team](https://vk.com/genesys.team)
+- [Genesys World](https://vk.com/genesys.world)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
