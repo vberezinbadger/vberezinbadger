@@ -3,6 +3,8 @@
 [![GitHub Link](https://img.shields.io/badge/GitHub%20Link%20for%20Social%20Networks-vberezinbadger-9cf)](https://github.com/vberezinbadger)
 [![VK](https://img.shields.io/badge/VK-star_butterfly_original-blue)](https://vk.com/star_butterfly_original)
 
+### [![Red Icon](./assets/icons/evilnyx/red.png)](https://vk.com/star_butterfly_original) HI THERE
+
 ### 👋 Hi there
 
 I am Vladimir Berezin. I develop all sorts of complex things: from simple applications and frameworks to grandiose projects. I have many interests and secrets.
