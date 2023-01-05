@@ -3,7 +3,7 @@
 [![GitHub Link](https://img.shields.io/badge/GitHub%20Link%20for%20Social%20Networks-vberezinbadger-9cf)](https://github.com/vberezinbadger)
 [![VK](https://img.shields.io/badge/VK-star_butterfly_original-blue)](https://vk.com/star_butterfly_original)
 
-###№ [![Red Icon](./assets/icons/red.png)](https://vk.com/star_butterfly_original) HELLO THERE
+#### [![Red Icon](./assets/icons/red.png)](https://vk.com/star_butterfly_original) HELLO THERE
 
 ### 👋 Hi there
 
