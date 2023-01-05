@@ -13,8 +13,9 @@ I am Vladimir Berezin. I develop all sorts of complex things: from simple applic
 
 <!-- BLOG-POST-LIST:START -->
 - [FLEXengine](https://vk.com/kolibracorp.flexui)
-- [BadgerOS](https://vk.com/kolibracorp.badgeros)
+- [badgerOS](https://vk.com/kolibracorp.badgeros)
 - [Hentai Terminal](https://vk.com/kolibracorp.hterminal)
+- [Hentai Terminal (GitHub)](https://github.com/hentai-team/terminal)
 - [Genesys Team](https://vk.com/genesys.team)
 - [Genesys World](https://vk.com/genesys.world)
 <!-- BLOG-POST-LIST:END -->
