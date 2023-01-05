@@ -3,13 +3,11 @@
 [![GitHub Link](https://img.shields.io/badge/GitHub%20Link%20for%20Social%20Networks-vberezinbadger-9cf)](https://github.com/vberezinbadger)
 [![VK](https://img.shields.io/badge/VK-star_butterfly_original-blue)](https://vk.com/star_butterfly_original)
 
-# [![Red Icon](./assets/icons/red.png)](https://vk.com/star_butterfly_original) HELLO THERE
-
-### 👋 Hi there
+# [![Red Icon](./assets/icons/red.png)](https://vk.com/star_butterfly_original) HELLO WORLD
 
 I am Vladimir Berezin. I develop all sorts of complex things: from simple applications and frameworks to grandiose projects. I have many interests and secrets.
 
-### 📝 Interesting projects
+# [![Cyan Icon](./assets/icons/cyan.png)](https://vk.com/star_butterfly_original) INTERESTING PROJECTS
 
 <br>
 
@@ -23,8 +21,8 @@ I am Vladimir Berezin. I develop all sorts of complex things: from simple applic
 
 <br>
 
-### 📌 Pinned comment
+# [![Purple Icon](./assets/icons/purple.png)](https://vk.com/star_butterfly_original) PINNED COMMENT
 
 <br>
-If you want to help me, then don't. I am self-taught and work alone, as well as in the circle of a large GuiseWare Team family.
+I'm Evilnyx, legendary developer and hackman.
 <br>
