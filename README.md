@@ -12,12 +12,10 @@ I am Vladimir Berezin. I develop all sorts of complex things: from simple applic
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [FLEXengine](https://vk.com/kolibracorp.flexui)
-- [badgerOS](https://vk.com/kolibracorp.badgeros)
-- [Hentai Terminal](https://vk.com/kolibracorp.hterminal)
-- [Hentai Terminal (GitHub)](https://github.com/hentai-team/terminal)
-- [Genesys Team](https://vk.com/genesys.team)
-- [Genesys World](https://vk.com/genesys.world)
+- [hbash](https://github.com/hentai-team/hbash)
+- [Dino Game (on Python)](https://github.com/vberezinbadger/Chrome-Dino-Python)
+- [mineCORE 4 Dev (for OpenComputers)](https://github.com/minesys/mineCORE-4)
+- [mineCORE Release (for OpenComputers)](https://github.com/minesys/mineCORE)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
