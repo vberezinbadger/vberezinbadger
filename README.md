@@ -1,4 +1,4 @@
-[![VBerezin Main Banner](./assets/vb-banner-reborn.png)](https://vk.com/star_butterfly_original)
+[![VBerezin Main Banner](./assets/vb-banner-reborn.png)](https://vberezinbadger.github.io/)
 
 [Official site](https://vberezinbadger.github.io/)
 
