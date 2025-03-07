@@ -1,7 +1,6 @@
 [![VBerezin Main Banner](./assets/vb-banner-reborn.png)](https://vk.com/star_butterfly_original)
 
-[![GitHub Link](https://img.shields.io/badge/GitHub%20Link%20for%20Social%20Networks-vberezinbadger-9cf)](https://github.com/vberezinbadger)
-[![VK](https://img.shields.io/badge/VK-star_butterfly_original-blue)](https://vk.com/star_butterfly_original)
+[Official site](https://vberezinbadger.github.io/)
 
 # [![Hello](./assets/icons/hello.png)](https://vk.com/star_butterfly_original) Hello, world!
 
