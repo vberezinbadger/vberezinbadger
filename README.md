@@ -15,6 +15,8 @@ I am Vladimir Berezin. I develop all sorts of complex things: from simple applic
 - [Dino Game (on Python)](https://github.com/vberezinbadger/Chrome-Dino-Python)
 - [mineCORE 4 Dev (for OpenComputers)](https://github.com/minesys/mineCORE-4)
 - [mineCORE Release (for OpenComputers)](https://github.com/minesys/mineCORE)
+- [Discord Sample Bot](https://github.com/vberezinbadger/discord-sample-bot)
+- [hfetch (an analog of neofetch)](https://github.com/hentai-team/hfetch)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
@@ -22,5 +24,5 @@ I am Vladimir Berezin. I develop all sorts of complex things: from simple applic
 # [![Pinned](./assets/icons/pinned.png)](https://vk.com/star_butterfly_original) Pinned comment
 
 <br>
-I'm Evilnyx, legendary developer and hackman.
+I'm a chill guy, Evilnyx, who likes to program all sorts of interesting stuff. It may not be interesting for many people, but there are certainly fans who like this kind of thing.
 <br>
