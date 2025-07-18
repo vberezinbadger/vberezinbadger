@@ -1,4 +1,4 @@
-[![VBerezin Main Banner](./assets/evilnyxBannerV3.png)](https://vberezinbadger.github.io/)
+[![VBerezin Main Banner](./assets/evilnyxBannerV4.png)](https://vberezinbadger.github.io/)
 
 [Official site](https://vberezinbadger.github.io/)
 
